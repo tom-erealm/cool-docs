@@ -10,6 +10,8 @@
     "build": "vuepress build"
   },
   "devDependencies": {
+    "@limdongjin/vuepress-plugin-sidebar-on-off": "^1.0.0-alpha.32",
+    "markdown-it-katex": "^2.0.3",
     "vuepress": "^1.8.2"
   }
 }
