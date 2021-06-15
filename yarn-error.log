@@ -1,0 +1,36 @@
+Arguments: 
+  D:\node\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init -d
+
+PATH: 
+  D:\cmder\vendor\bin;D:\cmder\vendor\git-for-windows\cmd;c:\es\esctupdate;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\ProgramData\chocolatey\bin;D:\node\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Go\bin;C:\Program Files\Git\cmd;C:\Users\erealm\AppData\Local\Microsoft\WindowsApps;D:\WebStorm 2019.3.5\bin;C:\Users\erealm\AppData\Roaming\npm;C:\Users\erealm\AppData\Local\Yarn\bin;C:\Users\erealm\.dotnet\tools;D:\Microsoft VS Code\bin;C:\Users\erealm\go\bin;C:\Program Files\Multipass\bin;C:\Users\erealm\AppData\Local\Microsoft\WindowsApps;c:\es\pssp\TeachStn;C:\Program Files\Calibre2\;C:\HashiCorp\Vagrant\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\erealm\AppData\Local\Microsoft\WindowsApps;D:\WebStorm 2019.3.5\bin;C:\Users\erealm\AppData\Roaming\npm;C:\Users\erealm\AppData\Local\Yarn\bin;C:\Users\erealm\.dotnet\tools;D:\Microsoft VS Code\bin;C:\Users\erealm\go\bin;C:\Program Files\Multipass\bin;C:\Users\erealm\AppData\Local\Microsoft\WindowsApps;C:\Users\erealm\AppData\Local\GitHubDesktop\bin;C:\Users\erealm\AppData\Local\Programs\IPFS Desktop\resources\app.asar.unpacked\src\ipfs-on-path\scripts\bin-win;D:\cmder\vendor\git-for-windows\mingw64\bin;D:\cmder\vendor\git-for-windows\usr\bin;D:\cmder
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:310:20)
+      at Interface._ttyWrite (readline.js:893:16)
+      at ReadStream.onkeypress (readline.js:198:10)
+      at ReadStream.emit (events.js:310:20)
+      at emitKeys (internal/readline/utils.js:438:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1160:36)
+      at ReadStream.emit (events.js:310:20)
+      at addChunk (_stream_readable.js:286:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,15 @@
+{
+  "name": "cool-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tom-erealm/cool-docs.git",
+  "author": "tom <tom@erealmsoft.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
