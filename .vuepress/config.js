@@ -1,6 +1,6 @@
 module.exports = {
     title: 'My VuePress Project',
-    description: `A simple VuePress project deployed with ${PRODUCT_NAME}.`,
+    description: `A simple VuePress project deployed with xx.`,
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
